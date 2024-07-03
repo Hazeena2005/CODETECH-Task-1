@@ -1,22 +1,16 @@
 # CODETECH-Task-1
 To do list
 
-Name : Hazeena S
-Company : CODETECH  IT SOLUTIONS
-ID : CT08TDS1597
-Domain : FrontEnd  Web Development
-Duration : June to July 2024
-Mentor :  G. SRAVANI
+**Name :** Hazeena S
+**Company :** CODETECH  IT SOLUTIONS
+**ID :** CT08TDS1597
+**Domain :** FrontEnd  Web Development
+**Duration :** June to July 2024
+**Mentor :**  G. SRAVANI
 
-### Name ### : 
-Hazeena S
-Company : CODETECH  IT SOLUTIONS
-ID : CT08TDS1597
-Domain : FrontEnd  Web Development
-Duration : June to July 2024
-Mentor :  G. SRAVANI
 
-## Project Overview: To Do List with Local Storage
+
+## Project : To Do List with Local Storage
 
 **Objective:**
 The objective of this project is to develop a To Do List application that allows users to create, edit, and delete tasks. The tasks will be stored in the user's local storage, ensuring that the data persists across sessions without requiring a backend server.
