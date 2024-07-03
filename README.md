@@ -1,12 +1,12 @@
 # CODETECH-Task-1
 To do list
 
-_**Name :** Hazeena S
--**Company :** CODETECH  IT SOLUTIONS
--**ID :** CT08TDS1597
--**Domain :** FrontEnd  Web Development
--**Duration :** June to July 2024
--**Mentor :**  G. SRAVANI
+**Name :** Hazeena S.
+**Company :** CODETECH  IT SOLUTIONS.
+**ID :** CT08TDS1597.
+**Domain :** FrontEnd  Web Development.
+**Duration :** June to July 2024.
+**Mentor :**  G. SRAVANI.
 
 
 
