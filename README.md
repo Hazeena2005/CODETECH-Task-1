@@ -17,7 +17,7 @@ The objective of this project is to develop a To Do List application that allows
 ![Screenshot 2024-07-03 193141](https://github.com/Hazeena2005/CODETECH-Task-1/assets/174039138/fe757a9c-cd8e-4708-bd4e-f6af8153a91c)
 
 
-![image alt]("https://github.com/Hazeena2005/CODETECH-Task-1/issues/1#issue-2388898177")
+
 
 **Technologies Used:**
 1. **Frontend:**
