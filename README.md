@@ -14,7 +14,7 @@ To do list
 
 **Objective:**
 The objective of this project is to develop a To Do List application that allows users to create, edit, and delete tasks. The tasks will be stored in the user's local storage, ensuring that the data persists across sessions without requiring a backend server.
-https://github.com/Hazeena2005/CODETECH-Task-1/issues/1#issue-2388898177
+
 ![image alt]("https://github.com/Hazeena2005/CODETECH-Task-1/issues/1#issue-2388898177")
 
 **Technologies Used:**
