@@ -14,6 +14,7 @@ To do list
 
 **Objective:**
 The objective of this project is to develop a To Do List application that allows users to create, edit, and delete tasks. The tasks will be stored in the user's local storage, ensuring that the data persists across sessions without requiring a backend server.
+![image alt]("C:\Users\Hazeena S\Pictures\Screenshots\Screenshot 2024-07-03 193141.png")
 
 **Technologies Used:**
 1. **Frontend:**
